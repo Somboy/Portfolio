@@ -1,0 +1,45 @@
+
+body {
+  background: black;
+  font-size: 16px;
+
+}
+h1 {
+	color: white;
+    font-size: 124px;
+    font-family: monospace;
+    padding-left: 560px;
+    margin-top: 0px;
+}
+h2
+ {
+    color: white;
+    font-size: 30px;
+    font-family: monospace;
+	text-decoration: underline;
+}
+p {
+	margin-top: -110px;
+    margin-left: 243px;
+    width: 1086px;
+    font-size: 24px;
+    font-family: monospace;
+    color: white;
+}
+header {
+	background: white;
+	height: 230px;
+	margin: -29px;
+}
+.menu {
+
+    height: 50px;
+}
+ul {
+	font-size: 29px;
+	
+}
+a {
+	text-decoration: none;
+	color: black;
+}
